@@ -1,0 +1,17 @@
+1		25/10/2022	https://us02web.zoom.us/rec/play/AMjCaH0-E__q58sx6WOxO8-ko3Q_ElwkGciKOhk40SFbLUyshyCtJfPQMC2v7KYqoNwtZs_ziCBxSY2b.NM9uvoVPRyX7G2l7
+2		01/11/2022	https://us02web.zoom.us/rec/play/wJW364KVO4HKfEz5baO5OIh9H9l2vdLh1ZPeltpI5hTSVVfyPZDuxeH2oWrXrwETaolSIsQccCsTDRXk.duhanDBMA6rT4Cye
+3		08/11/2022	https://us02web.zoom.us/rec/play/7C864LtIXWJDvNyS-v7SxRLZkMse2IFqkaxPTzDHO6BRx-jjtvZ7SsDE_gCQtUZde3FIsJI9hVrVIyzo.5DP3s2wTDHGibbol
+4		15/11/2022	https://us02web.zoom.us/rec/play/gujWRpud6qUcvFgaScI4FLOSSV8INK7L0osYyk5eTD0-oyCmd01lmoc-mz32G8V6Ymls40DnQO6vBVdg.VIAQAIRfTnWIdGsD
+5		23/11/2022	https://us02web.zoom.us/rec/play/0qEsaQqHFI1VSx5HLHOTZz_NSlBSANuDPntoNeQjhxACvwhAUYHHX07A5OxM6O2SivkihxwPXwZbMsrl.qz5X5HqhG-l3tSQs
+6		29/11/2022	https://us02web.zoom.us/rec/play/Iu05C_xEf91vuT_hWjn4dKMnx5EVEBvvhRbZs4khf87ykFJZPIo55PVI_hr6ZwWXpnj7C89qxwzDO70.UMROtBssG7IbheA6
+7		06/12/2022	https://us02web.zoom.us/rec/play/L25f7FCXD098KEoaiKJsqcl8xwidQKWNniZjVXJeDNC-ps0Eax0qYWU4HUtmLdY-95TtHSSBqyQ4Jok_.ncnBuzv6gdIadzPL
+		07/12/2022	https://us02web.zoom.us/rec/play/cdjkMPs-sa_byMVHOwxmPBpU9X91LG0_gKc4DEQQ4SBBLrVK__GCQl4hX95xYKHDsbtdm0dv8WWP_Ffx.-5kWzesPw5fqkg3n
+8		14/12/2022	https://us02web.zoom.us/rec/play/rnkunkVL7ZzVpGseieGhOeunRU0nxgVKaUSoeI0f5c0vDszaeqrYusx3owr-k7hV4T-AEWlq7taiyOaw.PYR53JEw4ycINrFO
+9		20/12/2022	https://us02web.zoom.us/rec/play/dcU0nZmEtD5U-EunElRq1ClB1oVSBxENh3dvrzywXzEkWbusAk-WubGPuHzPO5KzYIm8TZgN49LZSXKt.d55x5-GH-ZX4Fnwz
+10	27/12/2022	https://us02web.zoom.us/rec/play/s2jetCXOooIoTmcJ75Y8qbAoZbs1_ml_u1_h9jMXo77OrL0qpnMZIIF27GlgsdcsPvkYmI_A17MD7omS.nHlneHQrl8EU0pw6
+11	28/12/2022	https://us02web.zoom.us/rec/share/p3QG-N5Xcj7_FLFtRMQuYaHHZYx-y9FjtAjgAJYDQ7tj4mI9eXWtmWY3qKssFRRN.8Db9GrK-BMrr63En
+12	03/01/2023	https://us02web.zoom.us/rec/play/MAl3J4azXqBiyrS_DfBBT7zFvA4glM3LMn0vjqKmre9r0aEiSZl_aBsUjxWTqn40B6gEpcEZq0hJ2fAu.Cc_hPxwNr4K1K1Gm
+13	10/01/2023	https://us02web.zoom.us/rec/share/GzVytlV-C33yZt-BYnwuvPBFjSaQyVWfM083Vi5Re3uU_2iGGF9OnE3Gv0YsJf_b.OCiEugD9C0CUXmCE
+14	12/01/2022	https://us02web.zoom.us/rec/share/XpqLKsuiotw22KNaOr3BX_i76XE3PmOJDsJMYPMHSDmuPncWt-pe20ozD8n-LhuJ.xlAtypBm2HfSUY5D
+15	17/01/2023	https://us02web.zoom.us/rec/share/CxL1IYQizrExpr6eVKp3eTML63ZZxy3hhpXL8oQUjwRqldGoRrtcCtD-gW4Em2yq.-p4ranWYQPF8BVtQ
+	  18/01/2023	https://us02web.zoom.us/rec/share/iGM58RG4jRRN41nxYrPEOA4x6tB_lZdGlL0aEJgkxWcl3yXWdWED8WcbNnOQ6xOS.xPouplhYLFIknacv
