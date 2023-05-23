@@ -20,14 +20,6 @@ The insights gained from this research question can be valuable for game develop
 
 [JupyterNotebook](https://idoelarat.github.io/Data-Science-Project-Roblox/)
 
-
-
-## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idoelarat/)
-<br>
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahar-levy-647a731a8/)
-
-
 ## Authors
 
 - [@idoelarat](https://github.com/idoelarat)
