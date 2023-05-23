@@ -1,3 +1,4 @@
+
 # Roblox Data Science Project
 
 ![roblox logo](https://www.pcinvasion.com/wp-content/uploads/2023/05/Roblox.jpg)
@@ -5,6 +6,7 @@
 Welcome to our Roblox data science project, where we delve into the fascinating world of Roblox games and explore the factors that contribute to their popularity. Roblox is a widely popular online platform that allows users to create, share, and play games developed by the community. With millions of active users and a vast library of games, understanding the elements that make a game successful becomes a compelling research question.
 
 ## the research question:
+
 "Can we predict the number of favorites a game will receive on Roblox based on features such as genre, active players, created date, and more?"
 
 This research question aims to explore the relationship between the selected features (genre, active players, created date, etc.) and the number of favorites a game garners on the Roblox platform. By using these features as predictors, the objective is to develop a predictive model that can estimate the number of favorites a game is likely to accumulate.
@@ -15,15 +17,19 @@ The insights gained from this research question can be valuable for game develop
 
 
 ## Documentation
+
 [JupyterNotebook](https://idoelarat.github.io/Data-Science-Project-Roblox/)
 
 
 
 ## 🔗 Links
-* Ido Elarat[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idoelarat/)
-* Sahar Levy[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahar-levy-647a731a8/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/idoelarat/)
+<br>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahar-levy-647a731a8/)
 
 
 ## Authors
+
 - [@idoelarat](https://github.com/idoelarat)
 - [@SaharLevy](https://github.com/SaharLevy)
+
